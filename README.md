@@ -86,5 +86,5 @@ Developer's Portfolios:
 >[Kevin Castro Portfolio](https://kevincastro.netlify.app/)
 
 ---
-DON'T FPOGET A GIFT EVER AGAIN! :gift:
+DON'T FORGET A GIFT EVER AGAIN! :gift:
 ---
