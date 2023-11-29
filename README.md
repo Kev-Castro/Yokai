@@ -83,7 +83,7 @@ Developer's Portfolios:
 
 >[Andrew Optiz's Github](https://github.com/andrew-opitz)
 
->[Kevin Castro Portfolio](https://kevincastro.netlify.app/)
+>[Kevin Castro Portfolio](https://kevincastro.me)
 
 ---
 DON'T FORGET A GIFT EVER AGAIN! :gift:
